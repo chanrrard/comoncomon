@@ -1,0 +1,34 @@
+body {
+  background-color: #FDF6F0;
+  margin: 0 auto;
+}
+h1,h2 {
+  color:#50534A;
+  font-family: 'Black Han Sans', sans-serif;
+}
+.profilte {
+  max-width: 700px
+  padding: 100px 50px;
+  margin : auto;
+}
+
+.profile img {
+  width: 70%;
+  max-width: 500px;
+}
+
+
+.info{
+  padding: 10px 0px;
+  margin-bottom : 50px;
+  border-bottom: : 1px solid lightgrey;
+}
+
+.table_item {
+  color: blue;
+  font-weight: bold;
+}
+
+.favorite-video {
+  display:
+}
